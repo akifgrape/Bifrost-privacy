@@ -1,0 +1,8 @@
+{
+  "extName": {
+    "message": "Bifrost - Spoof Timezone, Geolocation & Locale"
+  },
+  "extDesc": {
+    "message": "Spoof-tijdzone, geolocatie, locale en user-agent. Koppel uw locatiegegevens aan het ip-adres van uw VPN."
+  }
+}

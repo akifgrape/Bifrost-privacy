@@ -1,0 +1,8 @@
+{
+  "extName": {
+    "message": "Bifrost - Spoof Timezone, Geolocation & Locale"
+  },
+  "extDesc": {
+    "message": "אזור זמן מזויף, מיקום גיאוגרפי, מיקום וסוכן משתמש. התאם את נתוני המיקום שלך לכתובת ה-IP של ה-VPN שלך."
+  }
+}
