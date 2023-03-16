@@ -1,8 +1,0 @@
-{
-  "extName": {
-    "message": "Bifrost - Spoof Timezone, Geolocation & Locale"
-  },
-  "extDesc": {
-    "message": "Lažna vremenska zona, geolokacija, lokalizacija i korisnički agent. Uskladite svoje podatke o lokaciji s IP adresom svog VPN-a."
-  }
-}

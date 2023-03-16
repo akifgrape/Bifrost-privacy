@@ -1,8 +1,0 @@
-{
-  "extName": {
-    "message": "Bifrost - Spoof Timezone, Geolocation & Locale"
-  },
-  "extDesc": {
-    "message": "Spoof tidszone, geolocation, lokalitet og brugeragent. Match dine placeringsdata med din VPN's ip-adresse."
-  }
-}

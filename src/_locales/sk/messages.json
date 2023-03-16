@@ -1,8 +1,0 @@
-{
-  "extName": {
-    "message": "Bifrost - Spoof Timezone, Geolocation & Locale"
-  },
-  "extDesc": {
-    "message": "Spoof časové pásmo, geolokáciu, miestne nastavenie a používateľského agenta. Priraďte údaje o svojej polohe k IP adrese vašej VPN."
-  }
-}
