@@ -1,11 +1,5 @@
 # Bifrost
 
-<p>
-<a href="https://chrome.google.com/webstore/detail/Bifrost-spoof-timezone-loca/ncbknoohfjmcfneopnfkapmkblaenokb?utm_source=github"><img src="https://raw.githubusercontent.com/Bifrost-io/Bifrost-extension/master/promo/chrome.png" alt="Get Bifrost for Chrome"></a>
-<a href="https://microsoftedge.microsoft.com/addons/detail/Bifrost-spoof-timezone-l/nkaemodamjfefjgbefolnpnlccpdfpap"><img src="https://raw.githubusercontent.com/Bifrost-io/Bifrost-extension/master/promo/edge.png" alt="Get Bifrost for Microsoft Edge"></a>
-<a href="https://addons.opera.com/en/extensions/details/Bifrost-spoof-timezone-location-user-agent/"><img src="https://raw.githubusercontent.com/Bifrost-io/Bifrost-extension/master/promo/opera.png" alt="Get Bifrost for Opera"></a>
-</p>
-
 Browser extension to spoof your timezone, geolocation, locale and user agent.
 
 ## About
