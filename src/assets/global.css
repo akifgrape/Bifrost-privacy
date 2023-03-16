@@ -1,0 +1,20 @@
+@font-face {
+  font-family: 'Nunito';
+  src: url(./Nunito-VariableFont_wght.ttf);
+  font-weight: 400 800;
+}
+
+body {
+  font-family: 'Twemoji Country Flags', 'Nunito', Arial, Helvetica, sans-serif;
+  font-weight: 500;
+  width: 358px;
+  height: 440px;
+}
+
+input {
+  font-family: 'Nunito', Arial, Helvetica, sans-serif;
+}
+
+#app-container {
+  display: inline;
+}

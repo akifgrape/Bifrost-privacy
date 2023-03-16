@@ -1,0 +1,6 @@
+{
+  "extName": { "message": "bifrost - Spoof Timezone, Geolocation & Locale" },
+  "extDesc": {
+    "message": "Подделка часового пояса, геолокации, локали и пользовательского агента."
+  }
+}

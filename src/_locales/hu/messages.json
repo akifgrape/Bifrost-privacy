@@ -1,0 +1,6 @@
+{
+  "extName": { "message": "bifrost - Spoof Timezone, Geolocation & Locale" },
+  "extDesc": {
+    "message": "Hamis időzóna, földrajzi hely, terület és felhasználói ügynök. Párosítsa helyadatait VPN-je IP-címével."
+  }
+}
