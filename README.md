@@ -62,4 +62,4 @@ Load the extension on Chrome:
 - Click on Load unpacked extension
 - Select the build folder.
 
-## Creator and developer [Akif Garpe](https://github.com/akifgrape) 🔥
+## Creator and developer [Akif Grape](https://github.com/akifgrape) 🔥
